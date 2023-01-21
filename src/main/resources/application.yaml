@@ -1,0 +1,10 @@
+spring:
+  profiles:
+    active: dog,EN
+banner:
+  image:
+    location: vizsla.jpg
+guru:
+  username: YmlUserName
+  password: YmlPassword
+  jdbcurl: YmUrl
