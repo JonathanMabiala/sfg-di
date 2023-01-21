@@ -1,0 +1,2 @@
+--guru.password=PwdFromCmdLine --guru.username=UserFromCmdLine
+GURU_USERNAME=UserFromEnvVar!
