@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: dog,EN
+    active: dog,EN,dev
 banner:
   image:
     location: vizsla.jpg
